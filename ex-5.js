@@ -1,3 +1,5 @@
 //Exercise #5: Shopping and Discount
 
-// Start coding here
+let TotalPrice = 27000;
+let Discount = TotalPrice*0.25;
+let PricePaid = TotalPrice-Discount;
